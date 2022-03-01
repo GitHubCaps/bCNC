@@ -7,33 +7,34 @@ An advanced fully [featured](FEATURES.md) g-code sender for grblHAL (formerly GR
 Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://github.com/vlachoudis/bCNC/discussions) before creating new [issues](https://github.com/vlachoudis/bCNC/issues)
 
 # Wiki
-[Wiki on Github](https://github.com/vlachoudis/bCNC/wiki)
+[wiki](https://github.com/vlachoudis/bCNC/wiki) on Github
 
 # Discussions
-[Discussions on Github](https://github.com/vlachoudis/bCNC/discussions)
+[discussions](https://github.com/vlachoudis/bCNC/discussions) on Github
 
 # Issues
-[Issues on Github](https://github.com/vlachoudis/bCNC/issues)
+[issues](https://github.com/vlachoudis/bCNC/issues) on Github
 
 # Project
-[bCNC project on pypi](https://pypi.org/project/bCNC/)
+[bCNC](https://pypi.org/project/bCNC/) on PyPi
 
-[Raspberry Pi on openbuilds](http://www.openbuilds.com/threads/bcnc-and-the-raspberry-pi.3038/)
+[Raspberry Pi](http://www.openbuilds.com/threads/bcnc-and-the-raspberry-pi.3038/) openbuilds
 
 # Installation
 `pip` is recommended!
 
-![bCNC docs (Manual, Linux Package Maintainers, Compile to Windows `.exe`)](INSTALLATION.md)
+[(Manual, Linux Package Maintainers, Compile to Windows `.exe`)]
+[docs](INSTALLATION.md)
 
-![bCNC wiki](https://github.com/vlachoudis/bCNC/wiki/Installation)
+[wiki](https://github.com/vlachoudis/bCNC/wiki/Installation)
 
 # Features
 CNC command sender, autoleveler, g-code editor, digitizer, CAM
 
-[bCNC build features](FEATURES.md)
+[Build features](FEATURES.md) CNC command sender, autoleveler, g-code editor, digitizer, CAM
 
 # Debugging
-![bCNC debugging issues](DEBUGGING.md)
+[Debugging issues](DEBUGGING.md)
 
 # Disclaimer
-![bCNC disclaimer, please read](DISCLAIMER.md)
+[Disclaimer, please read](DISCLAIMER.md)
