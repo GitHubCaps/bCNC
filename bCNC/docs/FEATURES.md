@@ -1,4 +1,6 @@
 # Features
+CNC command sender, autoleveler, g-code editor, digitizer, CAM
+
 - simple and intuitive interface for small screens
 - 3-axis and 6-axis GUI modes
 - import/export **g-code**, **dxf** and **svg** files
