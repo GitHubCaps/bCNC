@@ -1,42 +1,38 @@
-bCNC
-====
-
 # Documentation
-GrblHAL (formerly GRBL) CNC command sender, autoleveler, g-code editor, digitizer, CAM
-and swiss army knife for all your CNC needs.
-
-An advanced fully featured g-code sender for grblHAL (formerly GRBL). bCNC is a cross platform program (Windows, Linux, Mac) written in python. The sender is robust and fast able to work nicely with old or slow hardware like [Raspberry Pi](http://www.openbuilds.com/threads/bcnc-and-the-raspberry-pi.3038/) (As it was validated by the GRBL maintainer on heavy testing).
+An advanced fully featured g-code sender for grblHAL (formerly GRBL), see [features](FEATURES.md), for all your CNC needs. bCNC is a cross platform program (Windows, Linux, Mac) written in python. The sender is robust and fast able to work nicely with old or slow hardware like [Raspberry Pi](http://www.openbuilds.com/threads/bcnc-and-the-raspberry-pi.3038/) (As it was validated by the GRBL maintainer on heavy testing).
 
 ![bCNC screenshot](https://raw.githubusercontent.com/vlachoudis/bCNC/doc/Screenshots/bCNC.png)
 
 ## IMPORTANT!
-Read [WIKI](https://github.com/vlachoudis/bCNC/wiki) and [DISCUSS](https://github.com/vlachoudis/bCNC/discussions) before creating new [ISSUES](https://github.com/vlachoudis/bCNC/issues)
+Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://github.com/vlachoudis/bCNC/discussions) before creating new [issues](https://github.com/vlachoudis/bCNC/issues)
 
 # Wiki
 [bCNC](https://github.com/vlachoudis/bCNC/wiki)
 
 # Discussions
-[bCNC](https://github.com/vlachoudis/bCNC/discussions)
+[Discussions on Github](https://github.com/vlachoudis/bCNC/discussions)
 
 # Issues
-[Issues Github](https://github.com/vlachoudis/bCNC/issues)
+[Issues on Github](https://github.com/vlachoudis/bCNC/issues)
 
 # Project
-PyPI: https://pypi.org/project/bCNC/
+[bCNC project on pypi](https://pypi.org/project/bCNC/)
 
-Raspberry Pi: http://www.openbuilds.com/threads/bcnc-and-the-raspberry-pi.3038/
+[Raspberry Pi on openbuilds](http://www.openbuilds.com/threads/bcnc-and-the-raspberry-pi.3038/)
+
 
 # Installation
 `pip` is recommended!
-![Docs bCNC](INSTALLATION.md) (Manual, Linux Package Maintainers, Compile to Windows `.exe`)
+![bCNC docs (Manual, Linux Package Maintainers, Compile to Windows `.exe`)](INSTALLATION.md)
 
-![Wiki bCNC](https://github.com/vlachoudis/bCNC/wiki/Installation)
+![bCNC wiki](https://github.com/vlachoudis/bCNC/wiki/Installation)
 
-
-#![Features](FEATURES.md)
+# Features
+CNC command sender, autoleveler, g-code editor, digitizer, CAM
+[bCNC build features](FEATURES.md)
 
 # Debugging
-![Docs bCNC](DEBUGGING.md)
+![bCNC debugging issues](DEBUGGING.md)
 
 # Disclaimer
-![Docs bCNC](DISCLAIMER.md)
+![bCNC disclaimer, please read](DISCLAIMER.md)
