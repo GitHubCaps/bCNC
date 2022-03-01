@@ -94,6 +94,11 @@ please check first if that bug occurs even when running directly in python (with
 - Also read about all possible GRBL settings and make sure your setup is correct: https://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration
 - GrblHAL also has "Compatibility level" settings which have to be correctly configured during firmware compilation: https://github.com/grblHAL/core/wiki/Compatibility-level
 
+# [Configuration](bCNC/docs/CONFIGURATION.md)
+# [Features](bCNC/docs/FEATURES.md)
+# [Debugging](bCNC/docs/DEBUGGING.md)
+# [Disclaimer](bCNC/docs/DISCLAIMER.md)
+<!-- 
 # Configuration
 You can modify most of the parameters from the "CAM -> Config/Controller" page.
 You can also enable (up to) 6-axis mode in Config section,
@@ -106,10 +111,6 @@ installation directory.
 
 *PLEASE DO NOT CHANGE THIS FILE, IT'S GOING TO BE OVERWRITTEN ON EACH UPGRADE OF BCNC*
 
-# [Features](bCNC/docs/FEATURES.md)
-# [Debugging](bCNC/docs/DEBUGGING.md)
-# [Disclaimer](bCNC/docs/DISCLAIMER.md)
-<!-- 
 # Features
 - simple and intuitive interface for small screens
 - 3-axis and 6-axis GUI modes
