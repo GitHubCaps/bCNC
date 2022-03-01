@@ -10,14 +10,13 @@ An advanced fully featured g-code sender for grblHAL (formerly GRBL). bCNC is a 
 ![bCNC screenshot](https://raw.githubusercontent.com/vlachoudis/bCNC/doc/Screenshots/bCNC.png)
 
 ## IMPORTANT!
-# If you have any troubles using bCNC, please read [WIKI](https://github.com/vlachoudis/bCNC/wiki) and [DISCUSS](https://github.com/vlachoudis/bCNC/discussions) it first. Only create new [ISSUES](https://github.com/vlachoudis/bCNC/issues) when you are certain there is a problem with actual bCNC code.
+Read [WIKI](https://github.com/vlachoudis/bCNC/wiki) and [DISCUSS](https://github.com/vlachoudis/bCNC/discussions) before creating new [ISSUES](https://github.com/vlachoudis/bCNC/issues)
 
 # Wiki
-## IMPORTANT! If you have any troubles using bCNC, please read
-[Wiki bCNC](https://github.com/vlachoudis/bCNC/wiki) and [DISCUSS](https://github.com/vlachoudis/bCNC/discussions) it first, before creating a new [issue](https://github.com/vlachoudis/bCNC/issues)
+[bCNC](https://github.com/vlachoudis/bCNC/wiki)
 
 # Discussions
-[Discuss Github](https://github.com/vlachoudis/bCNC/discussions)
+[bCNC](https://github.com/vlachoudis/bCNC/discussions)
 
 # Issues
 [Issues Github](https://github.com/vlachoudis/bCNC/issues)
