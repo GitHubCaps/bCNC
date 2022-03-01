@@ -19,7 +19,7 @@ Before making pull request, please test your code on both python2 and python3.
 
 # Installation (using pip = recommended!)
 
-This is short overview of installation process, for more see the ![bCNC installation](https://github.com/vlachoudis/bCNC/wiki/Installation) wiki page.
+This is short overview of installation process, for more see the wiki page.
 
 This is how you install (or upgrade) bCNC along with all required packages.
 You can use any of these commands (you need only one):
@@ -43,6 +43,10 @@ Note that on Windows XP you have to use `pyserial==3.0.1` or older as newer vers
 
 PyPI project: https://pypi.org/project/bCNC/
 
+# Installation
+![bCNC wiki installation](https://github.com/vlachoudis/bCNC/wiki/Installation)
+![bCNC docs installation](bCNC/docs/INSTALLATION.md)
+<!--
 # Installation (manual)
 You will need the following packages to run bCNC
 - tkinter the graphical toolkit for python
@@ -85,7 +89,8 @@ That is solely for caching purposes and you should delete it before redistributi
 
 If you are going to report bugs in .exe version of bCNC,
 please check first if that bug occurs even when running directly in python (without .exe build).
-
+ -->
+ 
 # IMPORTANT! Motion controller (grblHAL) settings
 - We strongly recommend you to use 32b microcontroller with grblHAL firmware for the new machine builds. https://github.com/grblHAL (Original GRBL firmware is still supported, but it is currently reaching the end-of-life due to limitations of 8b microcontrollers)
 - GRBL should be configured to use **MPos** rather than **Wpos**. This means that `$10=` should be set to odd number. As of GRBL 1.1 we reccomend setting `$10=3`. If you have troubles communicating with your machine, you can try to set failsafe value `$10=1`.
@@ -94,10 +99,14 @@ please check first if that bug occurs even when running directly in python (with
 - Also read about all possible GRBL settings and make sure your setup is correct: https://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration
 - GrblHAL also has "Compatibility level" settings which have to be correctly configured during firmware compilation: https://github.com/grblHAL/core/wiki/Compatibility-level
 
-# [Configuration](bCNC/docs/CONFIGURATION.md)
-# [Features](bCNC/docs/FEATURES.md)
-# [Debugging](bCNC/docs/DEBUGGING.md)
-# [Disclaimer](bCNC/docs/DISCLAIMER.md)
+# Configuration
+![bCNC wiki configuration](bCNC/docs/CONFIGURATION.md)
+# Features
+![bCNC docs features](bCNC/docs/FEATURES.md)
+# Debugging
+![bCNC docs debugging](bCNC/docs/DEBUGGING.md)
+# Disclaimer
+![bCNC docs disclaimer](bCNC/docs/DISCLAIMER.md)
 <!-- 
 # Configuration
 You can modify most of the parameters from the "CAM -> Config/Controller" page.
