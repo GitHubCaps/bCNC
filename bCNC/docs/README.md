@@ -7,23 +7,23 @@ An advanced fully [featured](FEATURES.md) g-code sender for grblHAL (formerly GR
 Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://github.com/vlachoudis/bCNC/discussions) before creating new [issues](https://github.com/vlachoudis/bCNC/issues)
 
 # Wiki
-[wiki](https://github.com/vlachoudis/bCNC/wiki) on Github
+[wiki](https://github.com/vlachoudis/bCNC/wiki) Github
 
 # Discussions
-[discussions](https://github.com/vlachoudis/bCNC/discussions) on Github
+[discussions](https://github.com/vlachoudis/bCNC/discussions) Github
 
 # Issues
-[issues](https://github.com/vlachoudis/bCNC/issues) on Github
+[issues](https://github.com/vlachoudis/bCNC/issues) Github
 
 # Project
-[bCNC](https://pypi.org/project/bCNC/) on PyPi
+[bCNC](https://pypi.org/project/bCNC/) PyPi
 
 [Raspberry Pi](http://www.openbuilds.com/threads/bcnc-and-the-raspberry-pi.3038/) openbuilds
 
 # Installation
 `pip` is recommended!
 
-[(Manual, Linux Package Maintainers, Compile to Windows `.exe`)]
+Manual, Linux Package Maintainers, Compile to Windows `.exe`
 [docs](INSTALLATION.md)
 
 [wiki](https://github.com/vlachoudis/bCNC/wiki/Installation)
