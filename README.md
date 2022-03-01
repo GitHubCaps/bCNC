@@ -144,8 +144,8 @@ installation directory.
     - moving, rotating, mirroring the g-code
 - Web pendant to be used via smart phones
 
-[Debugging](bCNC/docs/DEBUGGING.md)
-[Disclaimer](bCNC/docs/DISCLAIMER.md)
+# [Debugging](bCNC/docs/DEBUGGING.md)
+# [Disclaimer](bCNC/docs/DISCLAIMER.md)
 <!-- 
 # Debugging
 You can log serial communication by changing the port to something like:
