@@ -44,9 +44,9 @@ Note that on Windows XP you have to use `pyserial==3.0.1` or older as newer vers
 PyPI project: https://pypi.org/project/bCNC/
 
 # Installation
-![bCNC wiki installation](https://github.com/vlachoudis/bCNC/wiki/Installation)
+![bCNC wiki](https://github.com/vlachoudis/bCNC/wiki/Installation)
 
-![bCNC docs installation](bCNC/docs/INSTALLATION.md)
+![bCNC docs](bCNC/docs/INSTALLATION.md) (Manual, Linux Package Maintainers, Compile to Windows `.exe`)
 <!--
 # Installation (manual)
 You will need the following packages to run bCNC
@@ -101,13 +101,13 @@ please check first if that bug occurs even when running directly in python (with
 - GrblHAL also has "Compatibility level" settings which have to be correctly configured during firmware compilation: https://github.com/grblHAL/core/wiki/Compatibility-level
 
 # Configuration
-![bCNC wiki configuration](bCNC/docs/CONFIGURATION.md)
+![bCNC docs](bCNC/docs/CONFIGURATION.md)
 # Features
-![bCNC docs features](bCNC/docs/FEATURES.md)
+![bCNC docs](bCNC/docs/FEATURES.md)
 # Debugging
-![bCNC docs debugging](bCNC/docs/DEBUGGING.md)
+![bCNC docs](bCNC/docs/DEBUGGING.md)
 # Disclaimer
-![bCNC docs disclaimer](bCNC/docs/DISCLAIMER.md)
+![bCNC docs](bCNC/docs/DISCLAIMER.md)
 <!-- 
 # Configuration
 You can modify most of the parameters from the "CAM -> Config/Controller" page.
