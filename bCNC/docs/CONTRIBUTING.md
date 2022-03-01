@@ -1,1 +1,2 @@
 # Contributing
+need the info!
