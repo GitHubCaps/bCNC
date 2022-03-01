@@ -17,16 +17,14 @@ Packages
 
 [MIT](LICENSE.MIT) - for the following
 
-[MeshCut](https://github.com/julienr/meshcut)
+[MeshCut](https://github.com/julienr/meshcut) Copyright (c) 2015 Julien Rebetez
 
-Copyright (c) 2015 Julien Rebetez
 	lib/mescut.py
 	lib/ply.py
 	lib/utils.py
 
-[svg.elements](https://github.com/meerk40t/svg.elements)
+[svg.elements](https://github.com/meerk40t/svg.elements) Copyright (c) 2019 David Olsen, 2019 meerk40t, Zingl
 
-Copyright (c) 2019 David Olsen, 2019 meerk40t, Zingl
 	lib/svg_elements.py
 
 <!-- [svg.path](https://github.com/regebro/svg.path) -->
