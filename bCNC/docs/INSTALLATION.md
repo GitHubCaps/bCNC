@@ -1,4 +1,4 @@
-# Installation (Manual)
+# Manual
 You will need the following packages to run bCNC
 - tkinter the graphical toolkit for python
   Depending your python/OS it can either be already installed,
@@ -13,15 +13,14 @@ You will need the following packages to run bCNC
 Expand the directory or download it from github
 and run the bCNC command
 
-# Installation (Linux package maintainers)
+# Linux package maintainers
 - Copy `bCNC` subdirectory of this repo to `/usr/lib/python3.x/site-packages/`
 - Launch using `python -m bCNC` or install bCNC.sh to /usr/bin
 - Alternatively you can fetch the bCNC Python package using pip when building Linux package
   - refer to your distro, eg.: https://wiki.archlinux.org/index.php/Python_package_guidelines
   - Py2deb to build Debian package from Python package: https://pypi.org/project/py2deb/
 
-# Installation (Compile to Windows .exe)
-
+# Compile to Windows .exe
 Note that you might probably find some precompiled .exe files on github "releases" page:
 https://github.com/vlachoudis/bCNC/releases
 But they might not be up to date.
