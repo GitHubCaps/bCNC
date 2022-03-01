@@ -1,4 +1,4 @@
-# Installation (manual)
+# Installation (Manual)
 You will need the following packages to run bCNC
 - tkinter the graphical toolkit for python
   Depending your python/OS it can either be already installed,
