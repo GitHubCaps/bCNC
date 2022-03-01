@@ -1,11 +1,11 @@
 # Documentation
-WIP
+Fixme, better documentation is needed.
 
 # Installation
-![bCNC doc](bCNC/docs/INSTALLATION.md)
+![DOC](bCNC/docs/INSTALLATION.md)
 
 # Debugging
-![bCNC doc](bCNC/docs/DEBUGGING.md)
+![DOC](bCNC/docs/DEBUGGING.md)
 
 # Disclaimer
-![bCNC doc](bCNC/docs/DISCLAIMER.md)
+![DOC](bCNC/docs/DISCLAIMER.md)
