@@ -2,10 +2,10 @@
 Fixme, better documentation is needed.
 
 # Installation
-![DOC](bCNC/docs/INSTALLATION.md)
+![DOC](INSTALLATION.md)
 
 # Debugging
-![DOC](bCNC/docs/DEBUGGING.md)
+![DOC](DEBUGGING.md)
 
 # Disclaimer
-![DOC](bCNC/docs/DISCLAIMER.md)
+![DOC](DISCLAIMER.md)
