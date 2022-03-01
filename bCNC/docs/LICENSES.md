@@ -1,21 +1,14 @@
 # Licenses
- bCNC
- 
-[GPLv2](LICENSE.md)
+bCNC [GPLv2](LICENSE.md)
 
-Packages
+# Packages [BSD3](LICENSE.BSD3)
 
-[BSD3](LICENSE.BSD3) - for the following
-
-[Numpy-STL](https://github.com/WoLpH/numpy-stl)
-
-	lib/stl
-
-[Python-Utils](https://github.com/WoLpH/python-utils)
+[Numpy-STL](https://github.com/WoLpH/numpy-stl), [Python-Utils](https://github.com/WoLpH/python-utils) WoLpH
 
 	lib/python_utils
+	lib/stl
 
-[MIT](LICENSE.MIT) - for the following
+# Packages [MIT](LICENSE.MIT)
 
 [MeshCut](https://github.com/julienr/meshcut) Copyright (c) 2015 Julien Rebetez
 
