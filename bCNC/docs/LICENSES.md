@@ -20,4 +20,7 @@ bCNC [GPLv2](LICENSE.md)
 
 	lib/svg_elements.py
 
-<!-- [svg.path](https://github.com/regebro/svg.path) -->
+# TODO
+
+<!-- [svg.path](https://github.com/regebro/svg.path) still in LICENSE.MIT -->
+image2gcode, ttf, ...
