@@ -106,7 +106,11 @@ installation directory.
 
 *PLEASE DO NOT CHANGE THIS FILE, IT'S GOING TO BE OVERWRITTEN ON EACH UPGRADE OF BCNC*
 
-# Features:
+# [Features](bCNC/docs/FEATURES.md)
+# [Debugging](bCNC/docs/DEBUGGING.md)
+# [Disclaimer](bCNC/docs/DISCLAIMER.md)
+<!-- 
+# Features
 - simple and intuitive interface for small screens
 - 3-axis and 6-axis GUI modes
 - import/export **g-code**, **dxf** and **svg** files
@@ -144,9 +148,6 @@ installation directory.
     - moving, rotating, mirroring the g-code
 - Web pendant to be used via smart phones
 
-# [Debugging](bCNC/docs/DEBUGGING.md)
-# [Disclaimer](bCNC/docs/DISCLAIMER.md)
-<!-- 
 # Debugging
 You can log serial communication by changing the port to something like:
 
