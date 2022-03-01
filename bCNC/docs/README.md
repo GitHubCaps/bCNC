@@ -23,8 +23,7 @@ Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://g
 # Installation
 `pip` is recommended!
 
-Manual, Linux Package Maintainers, Compile to Windows `.exe`
-[docs](INSTALLATION.md)
+[docs](INSTALLATION.md) (Manual, Linux Package Maintainers, Compile to Windows `.exe`)
 
 [wiki](https://github.com/vlachoudis/bCNC/wiki/Installation)
 
@@ -34,7 +33,7 @@ CNC command sender, autoleveler, g-code editor, digitizer, CAM
 [Build features](FEATURES.md) CNC command sender, autoleveler, g-code editor, digitizer, CAM
 
 # Debugging
-[Debugging issues](DEBUGGING.md)
+[Debugging](DEBUGGING.md) issues
 
 # Disclaimer
-[Disclaimer, please read](DISCLAIMER.md)
+[Disclaimer](DISCLAIMER.md), please read
