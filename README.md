@@ -155,7 +155,8 @@ The 'raw' option outputs the data directly, instead of creating a hex dump.
 Further documentation is available at: https://pyserial.readthedocs.io/en/latest/url_handlers.html#spy
 
 # Disclaimer
-  The software is made available "AS IS". It seems quite stable, but it is in
+[Disclaimer for this project](docs/DISCLAIMER.md)
+<!--  The software is made available "AS IS". It seems quite stable, but it is in
   an early stage of development.  Hence there should be plenty of bugs not yet
   spotted. Please use/try it with care, I don't want to be liable if it causes
-  any damage :)
+  any damage :) -->
