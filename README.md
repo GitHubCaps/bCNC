@@ -18,7 +18,6 @@ Before making pull request, please test your code on both python2 and python3.
 ![bCNC screenshot](https://raw.githubusercontent.com/vlachoudis/bCNC/doc/Screenshots/bCNC.png)
 
 # Installation (using pip = recommended!)
-
 This is short overview of installation process, for more see the wiki page.
 
 This is how you install (or upgrade) bCNC along with all required packages.
@@ -48,7 +47,7 @@ PyPI project: https://pypi.org/project/bCNC/
 
 ![bCNC docs](bCNC/docs/INSTALLATION.md) (Manual, Linux Package Maintainers, Compile to Windows `.exe`)
 <!--
-# Installation (manual)
+# Installation (Manual)
 You will need the following packages to run bCNC
 - tkinter the graphical toolkit for python
   Depending your python/OS it can either be already installed,
@@ -71,7 +70,6 @@ and run the bCNC command
   - Py2deb to build Debian package from Python package: https://pypi.org/project/py2deb/
 
 # Installation (Compile to Windows .exe)
-
 Note that you might probably find some precompiled .exe files on github "releases" page:
 https://github.com/vlachoudis/bCNC/releases
 But they might not be up to date.
@@ -99,9 +97,7 @@ please check first if that bug occurs even when running directly in python (with
 - Before filing bug please make sure you use latest stable official release of GRBL. Older and unofficial releases might work, but we frequently see cases where they don't. So please upgrade firmware in your Arduinos to reasonably recent version if you can.
 - Also read about all possible GRBL settings and make sure your setup is correct: https://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration
 - GrblHAL also has "Compatibility level" settings which have to be correctly configured during firmware compilation: https://github.com/grblHAL/core/wiki/Compatibility-level
-
-# Configuration
-![bCNC docs](bCNC/docs/CONFIGURATION.md)
+c
 # Features
 ![bCNC docs](bCNC/docs/FEATURES.md)
 # Debugging
