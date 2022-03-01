@@ -45,6 +45,7 @@ PyPI project: https://pypi.org/project/bCNC/
 
 # Installation
 ![bCNC wiki installation](https://github.com/vlachoudis/bCNC/wiki/Installation)
+
 ![bCNC docs installation](bCNC/docs/INSTALLATION.md)
 <!--
 # Installation (manual)
