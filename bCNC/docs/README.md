@@ -27,9 +27,10 @@ Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://g
 
 [wiki](https://github.com/vlachoudis/bCNC/wiki/Installation)
 
-# Features
-CNC command sender, autoleveler, g-code editor, digitizer, CAM
+# Configuration
+[Configuration](CONFIGURATION.md)
 
+# Features
 [Build features](FEATURES.md) CNC command sender, autoleveler, g-code editor, digitizer, CAM
 
 # Debugging
