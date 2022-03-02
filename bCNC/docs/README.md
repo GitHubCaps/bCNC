@@ -3,7 +3,7 @@ An advanced fully [featured](FEATURES.md) g-code sender for grblHAL (formerly GR
 
 ![bCNC screenshot](https://raw.githubusercontent.com/vlachoudis/bCNC/doc/Screenshots/bCNC.png)
 
-## IMPORTANT!
+# IMPORTANT!
 Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://github.com/vlachoudis/bCNC/discussions) before creating new [issues](https://github.com/vlachoudis/bCNC/issues)
 
 # Github
@@ -27,14 +27,8 @@ Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://g
 # Contributing
 [Contribution guidelines for this project (TODO)](CONTRIBUTING.md)
 
-# Contributors
-[Contributors](contributors.txt)
-
-# Credits
-[Credits](credits.txt)
-
-# Languages / Translations
-[Translators](translators.txt)
+# Contributions
+[Contributors](contributors.txt), [Credits](credits.txt), [Translators (Translations / Languages)](translators.txt)
 
 # Licenses
 [Licenses](LICENSES.md), [GPLv2](LICENSE.md), [BSD3](LICENSE.BSD3), [MIT](LICENSE.MIT)
