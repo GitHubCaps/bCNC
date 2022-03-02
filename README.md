@@ -99,6 +99,8 @@ please check first if that bug occurs even when running directly in python (with
 
 # Features
 [Features](bCNC/docs/FEATURES.md)
+# Changelog
+[Changelog](CHANGELOG.md)
 # Debugging
 [Debugging](bCNC/docs/DEBUGGING.md)
 # Licenses
