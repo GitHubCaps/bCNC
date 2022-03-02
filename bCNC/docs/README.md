@@ -4,9 +4,9 @@ An advanced fully [featured](FEATURES.md) g-code sender for grblHAL (formerly GR
 ![bCNC screenshot](https://raw.githubusercontent.com/vlachoudis/bCNC/doc/Screenshots/bCNC.png)
 
 # IMPORTANT!
-Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://github.com/vlachoudis/bCNC/discussions) before creating new [issues](https://github.com/vlachoudis/bCNC/issues)
+Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://github.com/vlachoudis/bCNC/discussions) before creating new [issues](https://github.com/vlachoudis/bCNC/issues) on GitHub.
 
-# Github
+# GitHub
 [wiki](https://github.com/vlachoudis/bCNC/wiki), [discussions](https://github.com/vlachoudis/bCNC/discussions), [issues](https://github.com/vlachoudis/bCNC/issues)
 
 # Projects
