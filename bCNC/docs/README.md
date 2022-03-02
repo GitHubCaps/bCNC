@@ -25,7 +25,7 @@ Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://g
 [Debugging](DEBUGGING.md)
 
 # Contributing
-[Contributing](CONTRIBUTING.md) (TODO)
+[Contribution guidelines for this project (TODO)](CONTRIBUTING.md)
 
 # Contributors
 [Contributors](CONTRIBUTORS.md)
