@@ -73,20 +73,20 @@ Note that you might probably find some precompiled .exe files on github "release
 https://github.com/vlachoudis/bCNC/releases
 But they might not be up to date.
 
-This is basic example of how to compile bCNC to .exe file.
+This is basic example of how to compile bCNC to `.exe` file.
 (given that you have working bCNC in the first place, eg. using `pip install bCNC`).
 Go to the directory where is your bCNC installed and do the following:
 
     pip install pyinstaller
     pyinstaller --onefile --distpath . --hidden-import tkinter --paths lib;plugins;controllers --icon bCNC.ico --name bCNC __main__.py
 
-This will take a minute or two. But in the end it should create `bCNC.exe`.
+This will take a minute or two. But in the end, it should create `bCNC.exe`.
 Also note that there is `make-exe.bat` file which will do just that for you.
 This will also create rather large "build" subdirectory.
 That is solely for caching purposes and you should delete it before redistributing!
 
-If you are going to report bugs in .exe version of bCNC,
-please check first if that bug occurs even when running directly in python (without .exe build).
+If you are going to report bugs in `.exe` version of bCNC,
+please check first if that bug occurs even when running directly in python (without `.exe` build).
  -->
  
 # IMPORTANT! Motion controller (grblHAL) settings
@@ -96,15 +96,15 @@ please check first if that bug occurs even when running directly in python (with
 - Before filing bug please make sure you use latest stable official release of GRBL. Older and unofficial releases might work, but we frequently see cases where they don't. So please upgrade firmware in your Arduinos to reasonably recent version if you can.
 - Also read about all possible GRBL settings and make sure your setup is correct: https://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration
 - GrblHAL also has "Compatibility level" settings which have to be correctly configured during firmware compilation: https://github.com/grblHAL/core/wiki/Compatibility-level
-c
+
 # Features
-![Features](bCNC/docs/FEATURES.md)
+[Features](bCNC/docs/FEATURES.md)
 # Debugging
-![Debugging](bCNC/docs/DEBUGGING.md)
+[Debugging](bCNC/docs/DEBUGGING.md)
 # Licenses
-![Licenses](bCNC/docs/LICENSES.md)
+[Licenses](bCNC/docs/LICENSES.md)
 # Disclaimer
-![Disclaimer](bCNC/docs/DISCLAIMER.md)
+[Disclaimer](bCNC/docs/DISCLAIMER.md)
 <!-- 
 # Configuration
 You can modify most of the parameters from the "CAM -> Config/Controller" page.
