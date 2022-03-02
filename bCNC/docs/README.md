@@ -28,7 +28,7 @@ Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://g
 [Contribution guidelines for this project (TODO)](CONTRIBUTING.md)
 
 # Contributors
-[Contributors](CONTRIBUTORS.md)
+[Contributors](contributors.txt)
 
 # Credits
 [Credits](CREDITS.md)
