@@ -6,7 +6,7 @@ and swiss army knife for all your CNC needs.
 
 An advanced fully featured g-code sender for grblHAL (formerly GRBL). bCNC is a cross platform program (Windows, Linux, Mac) written in python. The sender is robust and fast able to work nicely with old or slow hardware like [Raspberry Pi](http://www.openbuilds.com/threads/bcnc-and-the-raspberry-pi.3038/) (As it was validated by the GRBL maintainer on heavy testing).
 
-## IMPORTANT! If you have any troubles using bCNC, please read [WIKI](https://github.com/vlachoudis/bCNC/wiki) and [DISCUSS](https://github.com/vlachoudis/bCNC/discussions) it first. Only create new [issues](https://github.com/vlachoudis/bCNC/issues) when you are certain there is a problem with actual bCNC code.
+## IMPORTANT! If you have any troubles using bCNC, please read [WIKI](https://github.com/vlachoudis/bCNC/wiki) and [DISCUSS](https://github.com/vlachoudis/bCNC/discussions) it first. Only create new [ISSUES](https://github.com/vlachoudis/bCNC/issues) when you are certain there is a problem with actual bCNC code.
 
 [![Build Status](https://travis-ci.com/vlachoudis/bCNC.svg?branch=master)](https://travis-ci.com/vlachoudis/bCNC)
 [![CodeFactor](https://www.codefactor.io/repository/github/vlachoudis/bcnc/badge)](https://www.codefactor.io/repository/github/vlachoudis/bcnc)
@@ -17,8 +17,10 @@ Before making pull request, please test your code on both python2 and python3.
 
 ![bCNC screenshot](https://raw.githubusercontent.com/vlachoudis/bCNC/doc/Screenshots/bCNC.png)
 
-# Installation (using pip = recommended!)
-This is short overview of installation process, for more see the wiki page.
+# Installation
+This is short overview of installation process, for more, see the [wiki](https://github.com/vlachoudis/bCNC/wiki/Installation) page.
+
+`pip` is recommended!
 
 This is how you install (or upgrade) bCNC along with all required packages.
 You can use any of these commands (you need only one):
@@ -42,10 +44,7 @@ Note that on Windows XP you have to use `pyserial==3.0.1` or older as newer vers
 
 PyPI project: https://pypi.org/project/bCNC/
 
-# Installation
-![bCNC wiki](https://github.com/vlachoudis/bCNC/wiki/Installation)
-
-![bCNC docs](bCNC/docs/INSTALLATION.md) (Manual, Linux Package Maintainers, Compile to Windows `.exe`)
+Also see install: ![wiki](https://github.com/vlachoudis/bCNC/wiki/Installation), ![docs](bCNC/docs/INSTALLATION.md) (Manual, Linux Package Maintainers, Compile to Windows `.exe`)
 <!--
 # Installation (Manual)
 You will need the following packages to run bCNC
@@ -99,11 +98,13 @@ please check first if that bug occurs even when running directly in python (with
 - GrblHAL also has "Compatibility level" settings which have to be correctly configured during firmware compilation: https://github.com/grblHAL/core/wiki/Compatibility-level
 c
 # Features
-![bCNC docs](bCNC/docs/FEATURES.md)
+![Features](bCNC/docs/FEATURES.md)
 # Debugging
-![bCNC docs](bCNC/docs/DEBUGGING.md)
+![Debugging](bCNC/docs/DEBUGGING.md)
+# Licenses
+![Licenses](bCNC/docs/LICENSES.md)
 # Disclaimer
-![bCNC docs](bCNC/docs/DISCLAIMER.md)
+![Disclaimer](bCNC/docs/DISCLAIMER.md)
 <!-- 
 # Configuration
 You can modify most of the parameters from the "CAM -> Config/Controller" page.
