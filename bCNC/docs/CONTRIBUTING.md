@@ -1,2 +1,2 @@
 # Contributing
-need the info!
+TODO
