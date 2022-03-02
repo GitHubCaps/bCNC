@@ -16,6 +16,10 @@ Most pull requests should also pass CodeFactor checks if there is not good reaso
 Before making pull request, please test your code on both python2 and python3.
 
 ![bCNC screenshot](https://raw.githubusercontent.com/vlachoudis/bCNC/doc/Screenshots/bCNC.png)
+<!--
+Dark Theme	![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+Light Theme	![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+-->
 
 # Installation
 This is short overview of installation process, for more, see the [wiki](https://github.com/vlachoudis/bCNC/wiki/Installation) page.
