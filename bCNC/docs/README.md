@@ -13,18 +13,16 @@ Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://g
 [bCNC](https://pypi.org/project/bCNC/), [Raspberry Pi](http://www.openbuilds.com/threads/bcnc-and-the-raspberry-pi.3038/)
 
 # Installation
-[docs](INSTALLATION.md) `pip` is recommended! (Manual, Linux Package Maintainers, Compile to Windows `.exe`)
-
-[wiki](https://github.com/vlachoudis/bCNC/wiki/Installation)
+[docs](INSTALLATION.md), [wiki](https://github.com/vlachoudis/bCNC/wiki/Installation)
 
 # Configuration
 [Configuration](CONFIGURATION.md)
 
 # Features
-[Features](FEATURES.md) CNC command sender, autoleveler, g-code editor, digitizer, CAM
+[Features](FEATURES.md)
 
 # Debugging
-[Debugging](DEBUGGING.md) issues
+[Debugging](DEBUGGING.md)
 
 # Contributing
 [Contributing](CONTRIBUTING.md) (TODO)
@@ -39,13 +37,7 @@ Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://g
 [Translators](TRANSLATIONS.md)
 
 # Licenses
-[Licenses](LICENSES.md)
-
-[GPLv2](LICENSE.md)
-
-[BSD3](LICENSE.BSD3)
-
-[MIT](LICENSE.MIT)
+[Licenses](LICENSES.md), [GPLv2](LICENSE.md), [BSD3](LICENSE.BSD3), [MIT](LICENSE.MIT)
 
 # Disclaimer
-[Disclaimer](DISCLAIMER.md), please read
+[Disclaimer](DISCLAIMER.md)
