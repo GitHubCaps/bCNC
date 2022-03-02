@@ -33,8 +33,8 @@ Read [wiki](https://github.com/vlachoudis/bCNC/wiki) and [discussions](https://g
 # Credits
 [Credits](CREDITS.md)
 
-# Languages
-[Translators](TRANSLATIONS.md)
+# Languages / Translations
+[Translators](TRANSLATORS.md)
 
 # Licenses
 [Licenses](LICENSES.md), [GPLv2](LICENSE.md), [BSD3](LICENSE.BSD3), [MIT](LICENSE.MIT)
